@@ -1,6 +1,7 @@
 # [OLD] RE1JSScript - Developed with Unity
 
 Very old project I did it in 2017 for fun and still have a lot things to fix.
+For some reason protected by copyright, I can only share the scripts.
 
 ## Note:
 
