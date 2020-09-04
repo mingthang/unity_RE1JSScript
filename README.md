@@ -1,4 +1,4 @@
-# [OLD] Unity-RE1JSScript
+# [OLD] RE1JSScript - Developed with Unity
 
 Very old project I did it in 2017 for fun and still have a lot things to fix.
 
