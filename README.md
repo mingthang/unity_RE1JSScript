@@ -1,6 +1,6 @@
 # [OLD] RE1JSScript - Developed with Unity
 
-Very old project I did it in 2017 for fun and still have a lot things to fix.
+A project from 2017, developed with immense passion for the Resident Evil game, is still a work in progress with many many aspects to be fixed.
 
 For some reason protected by copyright, I can only share the scripts.
 
